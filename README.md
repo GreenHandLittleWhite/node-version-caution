@@ -17,4 +17,4 @@
 
 打开项目时，会有弹窗提示，右下角也会有提示
 
-![avatar](./assets/example.png)
+![avatar](https://github.com/GreenHandLittleWhite/node-version-caution/blob/main/assets/example.png)
